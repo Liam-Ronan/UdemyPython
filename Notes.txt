@@ -1,0 +1,12 @@
+functions
+    del = delete
+    pop = remove specific element
+    len = length of array
+    max = max no. of array
+    min = min no. of array
+    append = add objects to array
+    count = how many of certain element in array
+    clear = clears the whole dictionary
+    keys = get the keys of a dictionary
+    values = gets the values of a dictionary
+    update = update a dictionary/with another dict
